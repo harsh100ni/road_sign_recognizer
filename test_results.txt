@@ -1,0 +1,973 @@
+Test Accuracy: 0.9897
+
+Individual Predictions:
+File: road0.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road101.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road104.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road114.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road12.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road12.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9936
+----------------------------------------
+File: road123.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road124.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road124.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road124.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road124.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road13.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road136.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road136.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.5010
+----------------------------------------
+File: road142.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 0.9999
+----------------------------------------
+File: road143.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road145.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road169.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road177.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road179.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9997
+----------------------------------------
+File: road179.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9998
+----------------------------------------
+File: road179.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9988
+----------------------------------------
+File: road179.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9932
+----------------------------------------
+File: road179.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 0.9009
+----------------------------------------
+File: road184.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road193.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road193.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road194.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road194.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.4947
+----------------------------------------
+File: road197.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road207.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9992
+----------------------------------------
+File: road207.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road222.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9872
+----------------------------------------
+File: road224.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9785
+----------------------------------------
+File: road24.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road240.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9990
+----------------------------------------
+File: road240.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9937
+----------------------------------------
+File: road245.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road245.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road25.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9451
+----------------------------------------
+File: road25.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9982
+----------------------------------------
+File: road25.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9994
+----------------------------------------
+File: road255.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road258.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9998
+----------------------------------------
+File: road272.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9967
+----------------------------------------
+File: road272.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9588
+----------------------------------------
+File: road272.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 0.9985
+----------------------------------------
+File: road272.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road274.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road28.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9992
+----------------------------------------
+File: road28.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road28.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9982
+----------------------------------------
+File: road289.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9922
+----------------------------------------
+File: road289.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9847
+----------------------------------------
+File: road293.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road299.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9970
+----------------------------------------
+File: road308.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9961
+----------------------------------------
+File: road324.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road329.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road332.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road344.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road363.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road365.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9995
+----------------------------------------
+File: road374.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.5646
+----------------------------------------
+File: road377.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9803
+----------------------------------------
+File: road383.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9897
+----------------------------------------
+File: road394.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road396.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9990
+----------------------------------------
+File: road401.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road407.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9992
+----------------------------------------
+File: road409.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road41.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9992
+----------------------------------------
+File: road41.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road410.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road417.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road419.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road435.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road444.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road459.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road459.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road459.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9996
+----------------------------------------
+File: road46.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road469.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road499.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road512.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road521.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road525.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road529.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road53.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9149
+----------------------------------------
+File: road542.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9997
+----------------------------------------
+File: road542.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 0.9824
+----------------------------------------
+File: road56.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.5424
+----------------------------------------
+File: road560.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road560.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road561.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road561.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road566.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road568.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road569.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road573.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road573.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road575.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road575.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road577.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road577.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road584.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9932
+----------------------------------------
+File: road589.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road590.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road595.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9994
+----------------------------------------
+File: road598.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 0.9998
+----------------------------------------
+File: road598.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9991
+----------------------------------------
+File: road605.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road609.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road609.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road617.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9645
+----------------------------------------
+File: road617.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 0.9999
+----------------------------------------
+File: road62.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9936
+----------------------------------------
+File: road648.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road656.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road656.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road656.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road664.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road670.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road671.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9983
+----------------------------------------
+File: road671.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9247
+----------------------------------------
+File: road684.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road685.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road697.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9951
+----------------------------------------
+File: road697.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9775
+----------------------------------------
+File: road702.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road702.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9987
+----------------------------------------
+File: road705.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9911
+----------------------------------------
+File: road705.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9936
+----------------------------------------
+File: road709.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9911
+----------------------------------------
+File: road709.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9770
+----------------------------------------
+File: road711.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9988
+----------------------------------------
+File: road711.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9986
+----------------------------------------
+File: road715.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9888
+----------------------------------------
+File: road715.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9895
+----------------------------------------
+File: road718.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9957
+----------------------------------------
+File: road718.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9995
+----------------------------------------
+File: road722.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road733.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road733.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road737.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road737.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9998
+----------------------------------------
+File: road75.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9998
+----------------------------------------
+File: road753.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road753.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road759.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road766.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road768.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road769.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road773.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road776.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road78.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9994
+----------------------------------------
+File: road781.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road781.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road787.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road788.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road79.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9978
+----------------------------------------
+File: road791.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road791.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9916
+----------------------------------------
+File: road795.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road796.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road806.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road816.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road819.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9981
+----------------------------------------
+File: road819.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9997
+----------------------------------------
+File: road819.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.7117
+----------------------------------------
+File: road819.png
+True Class: trafficlight
+Predicted Class: speedlimit
+Confidence: 0.5933
+----------------------------------------
+File: road819.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.5176
+----------------------------------------
+File: road819.png
+True Class: trafficlight
+Predicted Class: speedlimit
+Confidence: 0.8109
+----------------------------------------
+File: road823.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9997
+----------------------------------------
+File: road823.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road823.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 1.0000
+----------------------------------------
+File: road823.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9933
+----------------------------------------
+File: road828.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road834.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9997
+----------------------------------------
+File: road844.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9998
+----------------------------------------
+File: road845.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9995
+----------------------------------------
+File: road845.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 1.0000
+----------------------------------------
+File: road845.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9822
+----------------------------------------
+File: road847.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 0.9999
+----------------------------------------
+File: road847.png
+True Class: trafficlight
+Predicted Class: trafficlight
+Confidence: 0.9748
+----------------------------------------
+File: road852.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road854.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road860.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road865.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road865.png
+True Class: crosswalk
+Predicted Class: crosswalk
+Confidence: 0.9460
+----------------------------------------
+File: road870.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road872.png
+True Class: speedlimit
+Predicted Class: speedlimit
+Confidence: 1.0000
+----------------------------------------
+File: road872.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.9727
+----------------------------------------
+File: road88.png
+True Class: stop
+Predicted Class: stop
+Confidence: 0.6385
+----------------------------------------
